@@ -1,0 +1,1 @@
+Given the Breast Cancer Wisconsin (Diagnostic) dataset, the objective is to perform unsupervised clustering to identify inherent patterns or groupings within the dataset. This dataset contains features computed from digitized images of fine needle aspirates (FNAs) of breast masses, aiming to distinguish between malignant and benign tumors.
